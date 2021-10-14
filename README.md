@@ -1,2 +1,2 @@
 # SafeHavenMc
-Main repository for everyrhing SafeHaven
+Main repository for everything SafeHaven
